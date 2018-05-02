@@ -5,7 +5,7 @@ We’ve familiarized ourselves with HTML and CSS; we know what they look like an
 ## Task 1
 * Create two boxes with 5px solid black border
 * 300px width and height
-* The other box backround "green" and the other "red"
+* The other box background "green" and the other "red"
 
 ## Task 2
 * Create two boxes with 5px solid black border
